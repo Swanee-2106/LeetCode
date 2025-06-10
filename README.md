@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Swanee-2106/LeetCode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Swanee-2106/LeetCode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/Swanee-2106/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Swanee-2106/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Swanee-2106/LeetCode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Swanee-2106/LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Swanee-2106/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Swanee-2106/LeetCode/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -29,13 +31,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Swanee-2106/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Swanee-2106/LeetCode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Swanee-2106/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Swanee-2106/LeetCode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Swanee-2106/LeetCode/tree/master/0053-maximum-subarray) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Swanee-2106/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
