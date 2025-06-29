@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/Swanee-2106/LeetCode/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/Swanee-2106/LeetCode/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/Swanee-2106/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
+| [1179-game-play-analysis-i](https://github.com/Swanee-2106/LeetCode/tree/master/1179-game-play-analysis-i) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Swanee-2106/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2110-employees-with-missing-information](https://github.com/Swanee-2106/LeetCode/tree/master/2110-employees-with-missing-information) |
 <!---LeetCode Topics End-->
