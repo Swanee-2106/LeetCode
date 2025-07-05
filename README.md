@@ -88,4 +88,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Swanee-2106/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Swanee-2106/LeetCode/tree/master/0344-reverse-string) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Swanee-2106/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Stack
+|  |
+| ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Swanee-2106/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Simulation
+|  |
+| ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Swanee-2106/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
