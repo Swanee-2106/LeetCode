@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Swanee-2106/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Swanee-2106/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Swanee-2106/LeetCode/tree/master/0268-missing-number) |
+| [0567-permutation-in-string](https://github.com/Swanee-2106/LeetCode/tree/master/0567-permutation-in-string) |
 ## Math
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Swanee-2106/LeetCode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/Swanee-2106/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Swanee-2106/LeetCode/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Swanee-2106/LeetCode/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Swanee-2106/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Swanee-2106/LeetCode/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Swanee-2106/LeetCode/tree/master/0567-permutation-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Swanee-2106/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
@@ -97,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Swanee-2106/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Swanee-2106/LeetCode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
