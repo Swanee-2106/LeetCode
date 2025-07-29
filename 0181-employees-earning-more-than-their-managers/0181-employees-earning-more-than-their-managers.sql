@@ -1,10 +1,10 @@
 # Write your MySQL query statement below
 SELECT 
-    w.name as Employee
+    e.name as Employee
 FROM 
-    Employee w,
+    Employee e,
     Employee m
 WHERE 
-    w.managerId = m.id
+    e.managerId = m.id
     AND
-    w.salary > m.salary
+    e.salary > m.salary
