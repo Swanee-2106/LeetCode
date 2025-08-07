@@ -36,12 +36,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Swanee-2106/LeetCode/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/Swanee-2106/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Swanee-2106/LeetCode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Swanee-2106/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Swanee-2106/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Swanee-2106/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Swanee-2106/LeetCode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Swanee-2106/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Swanee-2106/LeetCode/tree/master/0792-binary-search) |
