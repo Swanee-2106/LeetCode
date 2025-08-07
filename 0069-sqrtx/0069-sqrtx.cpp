@@ -7,9 +7,9 @@ public:
             if(mid*mid==x){
                 return mid;
             }
-            if(mid*mid>x){
+            if(mid*mid>x){//left search
                 end=mid-1;
-            }else if(mid*mid<x){
+            }else if(mid*mid<x){//right search
                 ans=mid;
                 st=mid+1;
             }
