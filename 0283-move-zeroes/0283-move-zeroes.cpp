@@ -15,7 +15,7 @@ public:
             }
         }*/
         int index=0;
-        for(int i=0;i<nums.size();i++){
+        for(int i=0;i<nums.size();i++){//O(n) TC And O(1) SC
             if(nums[i]!=0){
                 nums[index]=nums[i];
                 index++;
