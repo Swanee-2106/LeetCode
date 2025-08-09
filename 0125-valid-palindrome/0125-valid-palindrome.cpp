@@ -1,14 +1,20 @@
 class Solution {
 public:
+    bool isalphanum(char ch){
+        if((ch>='0' && ch<='9') || (tolower(ch)>='a' && tolower(ch)<='z')){
+            return true;
+        }
+        return false;
+    }
     
     bool isPalindrome(string s) {
         int start = 0,end = s.length()-1;
         while(start<end){
-            if(!isalnum(s[start])){
+            if(!isalphanum(s[start])){
                 start ++;
                 continue;
             }
-            if(!isalnum(s[end])){
+            if(!isalphanum(s[end])){
                 end--;
                 continue;
             }
