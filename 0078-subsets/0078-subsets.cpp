@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void allSubsets(vector<int>& nums, vector<int>& ans, int i,vector<vector<int>> &allsubs){
+    void allSubsets(vector<int>& nums, vector<int>& ans, int i,vector<vector<int>> &allsubs){//O(n*2^n) =TC
         if(i== nums.size()){
             //store subsets in a vector in for of vectors
             allsubs.push_back(ans);
