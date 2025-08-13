@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Swanee-2106/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Swanee-2106/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Swanee-2106/LeetCode/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/Swanee-2106/LeetCode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Swanee-2106/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Swanee-2106/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Swanee-2106/LeetCode/tree/master/0053-maximum-subarray) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Swanee-2106/LeetCode/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/Swanee-2106/LeetCode/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/Swanee-2106/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Swanee-2106/LeetCode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Swanee-2106/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Swanee-2106/LeetCode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Swanee-2106/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Swanee-2106/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Swanee-2106/LeetCode/tree/master/0078-subsets) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Swanee-2106/LeetCode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Swanee-2106/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Swanee-2106/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Swanee-2106/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
