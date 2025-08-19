@@ -11,7 +11,7 @@ public:
         }
         return 0;*/
 
-    // slow fast pointer approach
+    // slow fast pointer approach with tc O(n) And SC O(1)
         int slow=0,fast=0;
         do{
             slow=nums[slow];
