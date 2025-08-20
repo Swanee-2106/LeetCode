@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Swanee-2106/LeetCode/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/Swanee-2106/LeetCode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Swanee-2106/LeetCode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Swanee-2106/LeetCode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/Swanee-2106/LeetCode/tree/master/1013-fibonacci-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/Swanee-2106/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Swanee-2106/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Swanee-2106/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Swanee-2106/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/Swanee-2106/LeetCode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/Swanee-2106/LeetCode/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
