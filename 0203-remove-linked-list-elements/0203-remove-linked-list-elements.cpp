@@ -16,9 +16,9 @@ public:
             head=head->next;
             delete temp;
         }
-        ListNode* newhead = head;
-        ListNode* temp=newhead;
-        ListNode* prevtemp=newhead;
+        //ListNode* newhead = head;
+        ListNode* temp=head;
+        ListNode* prevtemp=head;
         while(temp!=NULL){
             if(temp->val != val){
                 prevtemp = temp;
@@ -30,6 +30,6 @@ public:
                 delete del;
             }
         }
-        return newhead;
+        return head;
     }
 };
