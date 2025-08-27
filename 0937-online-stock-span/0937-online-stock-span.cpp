@@ -27,6 +27,26 @@ public:
         return span;
     }
 };
+/*class StockSpanner {
+public:
+    stack<pair<int,int>> s;  // {price, span}
+
+    StockSpanner() {}
+
+    int next(int price) {
+        int span = 1;  // khud ka din to count hoga hi
+
+        // piche ke chhote/baraabar prices hatao
+        while(!s.empty() && s.top().first <= price) {
+            span += s.top().second;  // unka span add kar lo
+            s.pop();
+        }
+
+        // ab current price + span stack me daalo
+        s.push({price, span});
+        return span;
+    }
+};*/
 
 /**
  * Your StockSpanner object will be instantiated and called as such:
