@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/Swanee-2106/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0941-sort-array-by-parity](https://github.com/Swanee-2106/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Swanee-2106/LeetCode/tree/master/0948-sort-an-array) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/Swanee-2106/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [3227-find-missing-and-repeated-values](https://github.com/Swanee-2106/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Swanee-2106/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Bit Manipulation
