@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Swanee-2106/LeetCode/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Swanee-2106/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/Swanee-2106/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [1894-merge-strings-alternately](https://github.com/Swanee-2106/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Greedy
 |  |
 | ------- |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Swanee-2106/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/Swanee-2106/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Swanee-2106/LeetCode/tree/master/0567-permutation-in-string) |
+| [1894-merge-strings-alternately](https://github.com/Swanee-2106/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Swanee-2106/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
