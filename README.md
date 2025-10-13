@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Swanee-2106/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Swanee-2106/LeetCode/tree/master/0948-sort-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Swanee-2106/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Swanee-2106/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3227-find-missing-and-repeated-values](https://github.com/Swanee-2106/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Swanee-2106/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Bit Manipulation
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Swanee-2106/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Swanee-2106/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Swanee-2106/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Swanee-2106/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Sorting
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Swanee-2106/LeetCode/tree/master/0645-set-mismatch) |
 | [0941-sort-array-by-parity](https://github.com/Swanee-2106/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Swanee-2106/LeetCode/tree/master/0948-sort-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Swanee-2106/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/Swanee-2106/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/Swanee-2106/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1894-merge-strings-alternately](https://github.com/Swanee-2106/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Swanee-2106/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Greedy
 |  |
 | ------- |
