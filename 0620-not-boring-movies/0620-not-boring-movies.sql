@@ -1,5 +1,5 @@
 # Write your MySQL query statement below
 SELECT *
-FROM Cinema 
-WHERE description != 'boring' && id%2 != 0
-ORDER BY rating desc;
+FROM Cinema
+Where id%2 != 0 and description !='boring'
+ORDER BY rating DESC;
