@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Swanee-2106/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Swanee-2106/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Swanee-2106/LeetCode/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/Swanee-2106/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Swanee-2106/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Swanee-2106/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Swanee-2106/LeetCode/tree/master/0078-subsets) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Swanee-2106/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Swanee-2106/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Swanee-2106/LeetCode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Swanee-2106/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Swanee-2106/LeetCode/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/Swanee-2106/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Swanee-2106/LeetCode/tree/master/0231-power-of-two) |
